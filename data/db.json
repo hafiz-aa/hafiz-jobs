@@ -1,0 +1,8 @@
+{
+  "jobs": [
+        { "title": "Nera UX Designer", "id": 1, "details": "Figma, HTML, CSS" },
+        { "title": "Nera Web Developer", "id": 2, "details": "Javascript, HTML, CSS" },
+        { "title": "Nera Vue Developer", "id": 3, "details": "Vue, Javascript, CSS" }
+    ]
+    
+}
