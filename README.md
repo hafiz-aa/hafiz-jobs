@@ -1,4 +1,4 @@
-# nera-jobs
+# hafiz-jobs
 
 ## Project setup
 ```
